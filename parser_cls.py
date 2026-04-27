@@ -22,7 +22,6 @@ from parser.http.client import HttpClient
 from parser.proxies.proxy_factory import build_proxy
 from utils.build_api_params import build_api_params
 from utils.parse_phone import ParsePhone
-from version import VERSION
 
 DEBUG_MODE = False
 

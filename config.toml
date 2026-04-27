@@ -4,8 +4,7 @@ tg_chat_id = []
 vk_token = ""
 vk_user_id = []
 urls = [
-    "https://www.avito.ru/all/gruzoviki_i_spetstehnika/buldozery-ASgBAgICAURU3E0?cd=1",
-    "https://www.avito.ru/krasnodar/telefony/mobilnye_telefony/apple/iphone_16-ASgBAgICA0SywA3GsYwVtMANzqs5sMENiPw3?cd=1",
+    
 ]
 count = 1
 keys_word_white_list = []
