@@ -496,13 +496,6 @@ def main(page: ft.Page):
         auto_scroll=True,
     )
 
-    buy_me_coffe_btn = ft.TextButton("Продвинуть разработку",
-                                     on_click=lambda e: page.launch_url(DONAT_LINK),
-                                     style=ft.ButtonStyle(color=ft.colors.GREEN_300), expand=True,
-                                     tooltip=BUY_ME_COFFE_BTN_HELP)
-    report_issue_btn = ft.TextButton("Сообщить о проблеме", on_click=lambda e: page.launch_url(
-        "https://github.com/Duff89/parser_avito/issues"), style=ft.ButtonStyle(color=ft.colors.GREY), expand=True,
-                                     tooltip=REPORT_ISSUE_BTN_HELP)
     ignore_ads_in_reserv = ft.Checkbox(label="Игнор-ть резервы", value=True, tooltip=IGNORE_RESERV_HELP)
     ignore_promote_ads = ft.Checkbox(label="Игнор-ть продвинутые", value=False)
     one_time_start = ft.Checkbox(label="Выключить после завершения работы", value=False, tooltip=ONE_TIME_START_HELP)
@@ -678,16 +671,10 @@ def main(page: ft.Page):
                             tooltip=USE_WEBDRIVER_HELP)
 
 
-    other_btn = ft.Row(
-        [buy_me_coffe_btn, report_issue_btn],
-        alignment=ft.MainAxisAlignment.CENTER
-    )
-
     def start_page():
         page.add(
             ft.Column(
                 [
-                    other_btn,
                     accordion,
                 ],
                 expand=True,
