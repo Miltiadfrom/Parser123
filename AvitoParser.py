@@ -699,9 +699,3 @@ def main(page: ft.Page):
     set_up()
     start_page()
     logger_console_init()
-
-
-ft.app(
-    target=main,
-    assets_dir="assets",
-)
