@@ -53,7 +53,7 @@ class AvitoParse:
             block_threshold=config.block_threshold
         )
         self.ads_filter = AdsFilter(config=config, is_viewed_fn=self.is_viewed)
-        log_config(config=self.config, version=VERSION)
+        log_config(config=self.config, version="1.0")
 
 
     def get_proxy_obj(self) -> Proxy | None:

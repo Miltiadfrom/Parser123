@@ -4,10 +4,12 @@ tg_chat_id = []
 vk_token = ""
 vk_user_id = []
 urls = [
-    
+    "avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз",
 ]
 count = 1
-keys_word_white_list = []
+keys_word_white_list = [
+    "toyota camry",
+]
 keys_word_black_list = []
 seller_black_list = []
 max_price = 99999999

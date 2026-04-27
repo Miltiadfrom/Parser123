@@ -1,0 +1,194 @@
+2026-04-28 00:38:24.949 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:24.949 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.077 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.077 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.238 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.238 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.497 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:38:25.497 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:39:09.151 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:39:09.151 | DEBUG    | playwright_setup:ensure_playwright_installed:33 - Playwright уже установлен, хорошо
+2026-04-28 00:39:57.550 | INFO     | utils.prompt_user_login:prompt_user_login:131 - Пожалуйста, авторизуйтесь в браузере. Ожидание cookies auth=1...
+2026-04-28 00:39:57.550 | INFO     | utils.prompt_user_login:prompt_user_login:131 - Пожалуйста, авторизуйтесь в браузере. Ожидание cookies auth=1...
+2026-04-28 00:39:58.643 | INFO     | utils.prompt_user_login:prompt_user_login:144 - Обнаружена успешная авторизация (cookie auth=1)
+2026-04-28 00:39:58.643 | INFO     | utils.prompt_user_login:prompt_user_login:144 - Обнаружена успешная авторизация (cookie auth=1)
+2026-04-28 00:40:03.725 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: f
+2026-04-28 00:40:03.725 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: f
+2026-04-28 00:40:03.766 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: srv_id
+2026-04-28 00:40:03.766 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: srv_id
+2026-04-28 00:40:03.803 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: _avisc
+2026-04-28 00:40:03.803 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: _avisc
+2026-04-28 00:40:03.897 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: cssid
+2026-04-28 00:40:03.897 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: cssid
+2026-04-28 00:40:03.948 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:03.948 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:03.985 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:03.985 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.051 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.051 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.103 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.103 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.196 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.196 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.338 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.338 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.437 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: user_id
+2026-04-28 00:40:04.437 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: user_id
+2026-04-28 00:40:04.528 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.528 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.571 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.571 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.640 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.640 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.761 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.761 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: uid
+2026-04-28 00:40:04.820 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: sessid
+2026-04-28 00:40:04.820 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: sessid
+2026-04-28 00:40:04.870 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: auth
+2026-04-28 00:40:04.870 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: auth
+2026-04-28 00:40:04.924 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: rt
+2026-04-28 00:40:04.924 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: rt
+2026-04-28 00:40:04.979 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: sx
+2026-04-28 00:40:04.979 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: sx
+2026-04-28 00:40:05.046 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: f
+2026-04-28 00:40:05.046 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: f
+2026-04-28 00:40:05.123 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: ft
+2026-04-28 00:40:05.123 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: ft
+2026-04-28 00:40:05.190 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: csprefid
+2026-04-28 00:40:05.190 | DEBUG    | utils.prompt_user_login:prompt_user_login:169 - Сохранена кука: csprefid
+2026-04-28 00:40:05.620 | INFO     | utils.prompt_user_login:prompt_user_login:189 - Сессия сохранена в storage/own_cookies.json
+2026-04-28 00:40:05.620 | INFO     | utils.prompt_user_login:prompt_user_login:189 - Сессия сохранена в storage/own_cookies.json
+2026-04-28 00:40:06.106 | INFO     | utils.prompt_user_login:prompt_user_login:190 - Сохранено кук: 12
+2026-04-28 00:40:06.106 | INFO     | utils.prompt_user_login:prompt_user_login:190 - Сохранено кук: 12
+2026-04-28 00:40:06.174 | INFO     | utils.prompt_user_login:prompt_user_login:191 - Пропущено кук: 167
+2026-04-28 00:40:06.174 | INFO     | utils.prompt_user_login:prompt_user_login:191 - Пропущено кук: 167
+2026-04-28 00:40:06.247 | DEBUG    | utils.prompt_user_login:prompt_user_login:194 - Пропущенные куки: n, idntfy, idntfy, as, da, idntfy, idntfy, gMltIuegZN2COuSe, u, v...
+2026-04-28 00:40:06.247 | DEBUG    | utils.prompt_user_login:prompt_user_login:194 - Пропущенные куки: n, idntfy, idntfy, as, da, idntfy, idntfy, gMltIuegZN2COuSe, u, v...
+2026-04-28 00:40:09.221 | INFO     | AvitoParser:btn_prompt_user_login_handler:218 - update
+2026-04-28 00:40:09.221 | INFO     | AvitoParser:btn_prompt_user_login_handler:218 - update
+2026-04-28 00:41:35.494 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:41:35.494 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:41:35.570 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:41:35.570 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:43:28.951 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:43:28.951 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:44:17.782 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:44:17.782 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:44:17.844 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:44:17.844 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:46:10.820 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:46:10.820 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:47:35.725 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:47:35.725 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:47:35.772 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:47:35.772 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:49:59.544 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:49:59.544 | INFO     | AvitoParser:start_parser:227 - Старт
+2026-04-28 00:49:59.604 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:49:59.604 | DEBUG    | AvitoParser:save_config:114 - Настройки сохранены в config.toml
+2026-04-28 00:49:59.681 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:49:59.681 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:49:59.772 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:49:59.772 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:50:03.727 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:03.727 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:03.823 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 50
+2026-04-28 00:50:03.823 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 50
+2026-04-28 00:50:03.926 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 50
+2026-04-28 00:50:03.926 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 50
+2026-04-28 00:50:03.957 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 50
+2026-04-28 00:50:03.957 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 50
+2026-04-28 00:50:03.998 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 47
+2026-04-28 00:50:03.998 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 47
+2026-04-28 00:50:04.041 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 47
+2026-04-28 00:50:04.041 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 47
+2026-04-28 00:50:04.084 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 47
+2026-04-28 00:50:04.084 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 47
+2026-04-28 00:50:04.120 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 47
+2026-04-28 00:50:04.120 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 47
+2026-04-28 00:50:04.152 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 47
+2026-04-28 00:50:04.152 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 47
+2026-04-28 00:50:04.199 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 47
+2026-04-28 00:50:04.199 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 47
+2026-04-28 00:50:04.233 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:04.233 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:05.371 | INFO     | parser_cls:parse:187 - Сохраняю 47 объявлений
+2026-04-28 00:50:05.371 | INFO     | parser_cls:parse:187 - Сохраняю 47 объявлений
+2026-04-28 00:50:05.503 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:05.503 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:05.532 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:05.532 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:06.580 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:50:06.580 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:50:06.608 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:50:06.608 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:50:08.459 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:08.459 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:08.555 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 8
+2026-04-28 00:50:08.555 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 8
+2026-04-28 00:50:08.574 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 8
+2026-04-28 00:50:08.574 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 8
+2026-04-28 00:50:08.614 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 8
+2026-04-28 00:50:08.614 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 8
+2026-04-28 00:50:08.668 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 6
+2026-04-28 00:50:08.668 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 6
+2026-04-28 00:50:08.695 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 6
+2026-04-28 00:50:08.695 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 6
+2026-04-28 00:50:08.739 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 6
+2026-04-28 00:50:08.739 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 6
+2026-04-28 00:50:08.786 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 6
+2026-04-28 00:50:08.786 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 6
+2026-04-28 00:50:08.834 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 6
+2026-04-28 00:50:08.834 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 6
+2026-04-28 00:50:08.865 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 6
+2026-04-28 00:50:08.865 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 6
+2026-04-28 00:50:08.914 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:08.914 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:09.941 | INFO     | parser_cls:parse:187 - Сохраняю 6 объявлений
+2026-04-28 00:50:09.941 | INFO     | parser_cls:parse:187 - Сохраняю 6 объявлений
+2026-04-28 00:50:10.154 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:10.154 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:10.254 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:10.254 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:11.312 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:50:11.312 | INFO     | hide_private_data:log_config:64 - Запуск AvitoParse v1.0 с настройками:
+AvitoConfig(urls=['avito.ru/samara/zapchasti_i_aksessuary?localPriority=0&q=Toyota+Camry+тормоз'], proxy_string='', proxy_change_url='', keys_word_white_list=['toyota camry'], keys_word_black_list=[], seller_black_list=[], count=1, tg_token='', tg_chat_id=['***'], vk_token='', vk_user_id=[], max_price=99999999, min_price=0, geo='', max_age=0, debug_mode=0, pause_general=1, pause_between_links=1, max_count_of_retry=5, ignore_reserv=True, ignore_promotion=False, one_time_start=False, one_file_for_link=False, parse_views=False, save_xlsx=True, use_webdriver=False, use_bypass_api=False, cookies_api_key='', output_dir=WindowsPath('result'), use_own_cookies=False, parse_phone=False, proxy_notifier='', tg_only_text=False, retry_delay=5, timeout=20, block_threshold=3)
+2026-04-28 00:50:11.345 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:50:11.345 | INFO     | parser_cls:parse:117 - page=1
+2026-04-28 00:50:13.082 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:13.082 | INFO     | parser_cls:parse:159 - Объявлений перед чисткой 50
+2026-04-28 00:50:13.190 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 14
+2026-04-28 00:50:13.190 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_viewed осталось 14
+2026-04-28 00:50:13.220 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 14
+2026-04-28 00:50:13.220 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_price_range осталось 14
+2026-04-28 00:50:13.269 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 14
+2026-04-28 00:50:13.269 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_black_keywords осталось 14
+2026-04-28 00:50:13.323 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 10
+2026-04-28 00:50:13.323 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_white_keyword осталось 10
+2026-04-28 00:50:13.369 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 10
+2026-04-28 00:50:13.369 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_address осталось 10
+2026-04-28 00:50:13.403 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 10
+2026-04-28 00:50:13.403 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_seller осталось 10
+2026-04-28 00:50:13.436 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 10
+2026-04-28 00:50:13.436 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_recent_time осталось 10
+2026-04-28 00:50:13.470 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 10
+2026-04-28 00:50:13.470 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_reserve осталось 10
+2026-04-28 00:50:13.501 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 10
+2026-04-28 00:50:13.501 | INFO     | filters.ads_filter:apply:30 - После фильтрации _filter_by_promotion осталось 10
+2026-04-28 00:50:13.536 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:13.536 | INFO     | parser_cls:parse:183 - Пауза 1 сек.
+2026-04-28 00:50:14.573 | INFO     | parser_cls:parse:187 - Сохраняю 10 объявлений
+2026-04-28 00:50:14.573 | INFO     | parser_cls:parse:187 - Сохраняю 10 объявлений
+2026-04-28 00:50:14.748 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:14.748 | INFO     | parser_cls:parse:192 - Хорошие запросы: 1шт, плохие: 0шт
+2026-04-28 00:50:14.803 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:14.803 | INFO     | AvitoParser:start_parser:239 - Пауза между повторами
+2026-04-28 00:50:14.895 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:50:14.895 | DEBUG    | AvitoParser:stop_parser:254 - Стоп
+2026-04-28 00:50:15.841 | INFO     | AvitoParser:start_parser:243 - Завершено
+2026-04-28 00:50:15.841 | INFO     | AvitoParser:start_parser:243 - Завершено
