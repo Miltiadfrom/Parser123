@@ -13,14 +13,9 @@ from lang import *
 from load_config import save_avito_config, load_avito_config
 from parser_cls import AvitoParse
 from utils import prompt_user_login
-from version import VERSION
 
 
 def main(page: ft.Page):
-    page.title = f'Parser Avito v {VERSION}'
-    page.theme_mode = ft.ThemeMode.DARK
-    page.vertical_alignment = ft.MainAxisAlignment.CENTER
-    page.padding = 20
 
     is_run = False
     stop_event = threading.Event()
