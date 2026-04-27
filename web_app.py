@@ -12,7 +12,6 @@ if __name__ == "__main__":
     ft.app(
         target=main,
         assets_dir="assets",
-        view=ft.AppView.FLET_APP_WEB,
         port=8550,
         host="0.0.0.0",
     )

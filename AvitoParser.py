@@ -18,16 +18,9 @@ from version import VERSION
 
 def main(page: ft.Page):
     page.title = f'Parser Avito v {VERSION}'
-    page.window.icon = str(Path(__file__).parent / "assets" / "logo.ico")
     page.theme_mode = ft.ThemeMode.DARK
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
-    page.window.width = 1000
-    page.window.height = 980
-    page.window.min_width = 650
-    page.window.min_height = 500
     page.padding = 20
-
-    page.window.maximized = True
 
     is_run = False
     stop_event = threading.Event()
@@ -259,7 +252,6 @@ def main(page: ft.Page):
                     return
             if one_time_start.value:
                 stop_event.set()
-                page.window.close()
 
     def stop_parser(e):
         nonlocal is_run
